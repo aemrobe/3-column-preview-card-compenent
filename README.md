@@ -73,7 +73,7 @@ css
     align-content: start;
 }
 
-  /* this element will be positioned at the bottom-left corner because it put the remaining space other than it's content at the top and right place from it. */
+  /* this element will be positioned at the bottom-left corner because margin-top of auto will put the remaining space which is other than it's content at the top from it margin-right of auto will put the remaining space at the right from it . */
  .learn-btn {
     margin-top: auto;
     margin-right: auto;
