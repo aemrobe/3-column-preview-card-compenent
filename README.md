@@ -46,9 +46,9 @@ file path for the screenshot of my solution for the mobile view: screenshot of m
 
 ### What I learned
 
-when I do this challenge I learn one new thing which is when we make an element a grid-container we can align the grid-items inside of the column and row they are spaning by using margin auto proeprty.
+when I do this challenge I learn one new thing which is when we make an element a grid-container we can align the grid-items inside of the column and row they are spaning by using margin auto property.
 for example:-
-I have article element with a class of car which have four elements. I gave it a min-height property of 497px and I made this element a grid-container with 4 rows and 1 columns. I gave a size of auto for my three elements which spans the first three rows and I gave 1fr to the fourth element which spans remaining space at the bottom (fourth row). so I can postion the last element inside the fourth row wherever I want by using margin auto property.
+I have article element with a class of car which have four elements. I gave it a min-height property of 497px and I made this element a grid-container with 4 rows and 1 column. I gave a size of auto for my three elements which spans the first three rows and I gave 1fr to the fourth element which spans remaining space at the bottom (fourth row). so I can postion the last element inside the fourth row wherever I want by using margin auto property.
 
 ```
 html
